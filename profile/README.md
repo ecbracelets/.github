@@ -11,28 +11,10 @@
               colors, smooth feel, and made to mix. Shop favorites or design
               your own.
             </p>
-            <p data-placeholder="copy" class="mt-3 text-slate-500 hidden">
-              .
-            </p>
             <div class="mt-8 flex flex-wrap gap-3">
-              <a href="/shop/" class="btn btn-primary">Shop Bracelets</a>
+              <a href="/shop/" class="btn btn-primary">Shop Bracelets</a>         
               <a href="/custom/" class="btn btn-secondary">Build a Custom</a>
             </div>
-            <dl class="mt-8 grid grid-cols-2 gap-6 text-sm">
-              <div>
-                <dt class="font-medium text-slate-900">
-                  Smooth clay disc beads
-                </dt>
-                <dd class="text-slate-600">Lightweight and comfy all day.</dd>
-              </div>
-              <div>
-                <dt class="font-medium text-slate-900">simple shipping options!</dt>
-                <dd class="text-slate-600"> free pick ups.</dd>
-              </div>
-            </dl>
-          </div>
-          <div class="relative">
-            <img src="/assets/bracelet-hero.svg" alt="Bracelet display" class="mx-auto w-full max-w-md drop-shadow">
           </div>
         </div>
       </div>
