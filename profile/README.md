@@ -1,24 +1,17 @@
-<section class="relative overflow-hidden">
-      <div class="absolute inset-0 -z-10 bg-gradient-to-b from-[var(--pink-50)] via-white to-white"></div>
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid lg:grid-cols-2 gap-10 items-center py-16 sm:py-20">
-          <div>
+ <div>
             <h1 class="font-heading text-4xl sm:text-5xl tracking-tight text-slate-900">
               Clay beaded bracelets with coastal charm
             </h1>
             <p class="mt-5 text-lg text-slate-600">
-              We make comfy, everyday bracelets using polymer clay disc beads—soft
+              We make comfy, everyday bracelets using polymer clay disc beads, soft
               colors, smooth feel, and made to mix. Shop favorites or design
               your own.
             </p>
             <div class="mt-8 flex flex-wrap gap-3">
-              <a href="/shop/" class="btn btn-primary">Shop Bracelets</a>         
-              <a href="/custom/" class="btn btn-secondary">Build a Custom</a>
+              <a href="https://eastcoastbracelets.web.app/shop/" class="btn btn-primary">Shop Bracelets</a>         
+              <a href="https://eastcoastbracelets.web.app/custom/" class="btn btn-secondary">Build a Custom</a>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
+
 
 <!--
 
